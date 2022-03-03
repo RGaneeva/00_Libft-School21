@@ -1,5 +1,5 @@
-LIBFT
+№ LIBFT
 
-School-21 (Ecole42) 'libft' project. Score 115/115
+School-21 (Ecole42) 'libft' project. Score 100/100
 
-Static library on C language with my own realization of some stdlib functions and a few additional training functions.
+Static library on C language with my own realization of some stdlib functions.
