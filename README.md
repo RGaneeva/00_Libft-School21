@@ -1,4 +1,4 @@
-№ LIBFT
+# LIBFT
 
 School-21 (Ecole42) 'libft' project. Score 100/100
 
